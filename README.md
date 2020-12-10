@@ -5,7 +5,7 @@
 ### フロントエンド
 * #### HTML5
 * #### CSS
-* ####JavaScript
+* #### JavaScript
 ### バックエンド
 * #### Java8 ※
 * #### MySQL
