@@ -2,6 +2,7 @@
 ![myPortfoilo](https://user-images.githubusercontent.com/71540374/101719598-fb6c4d00-3ae6-11eb-9dfd-0cc264282a86.gif)
 # Overview
 自己紹介とログイン機能が付いたポートフォリオサイトです。<br>
+![SignUp](https://user-images.githubusercontent.com/71540374/101756489-6afb3000-3b19-11eb-81be-ef85c25d8220.gif)
 開発環境の詳細はログイン後の「本サイトの開発環境について」にて紹介しています。
 ## Dependency
 使用言語:
