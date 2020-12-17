@@ -185,7 +185,8 @@
                         <h1>Contact Me</h1>
                         <p class="lead mb-5">ここまでご覧いただきありがとうございました。連絡先やソースコードはこちら</p>
                         <p class="lead mb-5">メール:&nbsp;kadotaforportfolio@gmail.com&nbsp; &nbsp;
-                        						ソースコード:Githubのプライベートリポジトリにて公開しています。上記のメールよりご連絡ください。<br></p>
+                        						ソースコード:<a href= "https://github.com/KadotaMasakazu/Portfolio">
+                        							https://github.com/KadotaMasakazu/Portfolio</a><br></p>
                     </div>
                 </div>
             </div>
